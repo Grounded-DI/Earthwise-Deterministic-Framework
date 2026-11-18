@@ -1,6 +1,6 @@
 # EarthWise — Impact × Feasibility Conservation Framework
 
-A documented deterministic framework for screening and ranking declining U.S. species under explicit 10-year, Endangered Species Act, and low-intensity distributed-intervention constraints.
+EarthWise screens and ranks declining U.S. species using explicit 10-year, Endangered Species Act, and low-intensity intervention criteria. Its report exposes each scoring step for review and recalculation.
 
 ## Overview
 
@@ -8,7 +8,7 @@ This repository contains EarthWise Report v1.0, dated February 21, 2026, and a c
 
 EarthWise is described as an environmental logic layer connecting CleanAirWise DI², CleanWaterWise DI², HazardWise DI², and EndangeredSpeciesWise DI². Those modules are referenced as framework context; their implementations are not bundled in this repository.
 
-The output is a transparent model artifact. It is not a field deployment, population survey, or regulatory determination.
+The public output is a scoring model and ranking. The repository includes its assumptions and a visual table.
 
 ## Why It Matters
 
@@ -80,9 +80,7 @@ The strongest feature of EarthWise is the explicit separation of ecological impa
 
 ## Evaluation and Integration Context
 
-Potential evaluation uses include transparent conservation prioritization, scenario comparison, and review of distributed-intervention assumptions. An organization could use the report as a model specification for a future data-backed pilot, provided that species data, regulatory status, and ecological assumptions are independently checked.
-
-Those are evaluation or integration scenarios, not functions demonstrated by a deployed product here. For technical evaluation, licensing, or collaboration discussions, contact Grounded DI LLC through the [Grounded DI GitHub organization](https://github.com/Grounded-DI).
+The report supports controlled technical evaluation of conservation-prioritization logic and scenario comparisons. Current species data, regulatory status, and ecological assumptions need verification for any real conservation decision. For evaluation, licensing, or collaboration, contact Grounded DI LLC through the [Grounded DI GitHub organization](https://github.com/Grounded-DI).
 
 ## Authorship and Provenance
 
